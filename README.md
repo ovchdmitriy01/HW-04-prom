@@ -6,22 +6,22 @@
 ### Задание 1
 Установите Prometheus.
 
-![alt text]
+![alt text](https://github.com/ovchdmitriy01/HW-04-prom/blob/main/prom_1.png)
+![alt text](https://github.com/ovchdmitriy01/HW-04-prom/blob/main/prom_2.png)
 
 ---
 
 ### Задание 2*
 Установите Node Exporter.
 
-![alt text]
-![alt text]
+![alt text](https://github.com/ovchdmitriy01/HW-04-prom/blob/main/prom_3.png)
 
 ---
 
 ### Задание 3*
 Подключите Node Exporter к серверу Prometheus.
 
-![alt text]
-![alt text]
+![alt text](https://github.com/ovchdmitriy01/HW-04-prom/blob/main/prom_4.png)
+![alt text](https://github.com/ovchdmitriy01/HW-04-prom/blob/main/prom_5.png)
 
 ---
